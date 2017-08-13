@@ -1,0 +1,13 @@
+D:\Projects\Portable ECG\Portable ECG\bin\Debug\Portable ECG.exe
+D:\Projects\Portable ECG\Portable ECG\bin\Debug\Portable ECG.pdb
+D:\Projects\Portable ECG\Portable ECG\obj\Debug\Portable ECG.csprojResolveAssemblyReference.cache
+D:\Projects\Portable ECG\Portable ECG\obj\Debug\Portable_ECG.Form1.resources
+D:\Projects\Portable ECG\Portable ECG\obj\Debug\Portable_ECG.Properties.Resources.resources
+D:\Projects\Portable ECG\Portable ECG\obj\Debug\Portable ECG.csproj.GenerateResource.Cache
+D:\Projects\Portable ECG\Portable ECG\obj\Debug\Portable ECG.exe
+D:\Projects\Portable ECG\Portable ECG\obj\Debug\Portable ECG.pdb
+D:\Projects\Portable ECG\Portable ECG\bin\Debug\Portable ECG.exe.manifest
+D:\Projects\Portable ECG\Portable ECG\bin\Debug\Portable ECG.application
+D:\Projects\Portable ECG\Portable ECG\obj\Debug\Portable ECG.TrustInfo.xml
+D:\Projects\Portable ECG\Portable ECG\obj\Debug\Portable ECG.exe.manifest
+D:\Projects\Portable ECG\Portable ECG\obj\Debug\Portable ECG.application
